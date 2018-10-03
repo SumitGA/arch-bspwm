@@ -1,2 +1,2 @@
-# arco-bspwm
-arco-linux theming and configuration with bspwm and polybar
+# arch-bspwm
+arch-linux theming and configuration with bspwm and polybar
